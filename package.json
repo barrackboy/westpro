@@ -1,0 +1,22 @@
+{
+  "name": "westpro-integration",
+  "version": "1.0.0",
+  "description": "code file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrackboy/westpro.git"
+  },
+  "author": "Uzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrackboy/westpro/issues"
+  },
+  "homepage": "https://github.com/barrackboy/westpro#readme",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
