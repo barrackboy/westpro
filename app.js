@@ -22,6 +22,8 @@
 //  });
 // });
 
+// https://intra.pdx.fi/westpro/save/out/kotisivut-rc.xml
+// https://intra.pdx.fi/westpro/save/out/kotisivut.xml
 
 
 
@@ -32,7 +34,7 @@ const util = require('util');
 const http = require("https");
 const file = fs.createWriteStream('test.xml');
 const parser = new xml2js.Parser({ explicitArray: false });
-http.get("https://intra.pdx.fi/westpro/save/out/kotisivut-rc.xml", response => {
+http.get("https://intra.pdx.fi/westpro/save/out/kotisivut.xml", response => {
     response.setEncoding('latin1');
     response.pipe(file);
 

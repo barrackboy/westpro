@@ -1,445 +1,139 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><housing-companies><housing-company>
-  <key>H7</key>
-  <number>060</number>
-  <name>Asunto Oy Villa Velvet, Espoo</name>
-  <real-estate-agent>
-    <vendor-id>y1085205-5</vendor-id>
-    <contact-email>myynti@westpro.fi</contact-email>
-  </real-estate-agent>
-  <builder>
-    <logo-url>https://kuvat.pdx.fi/westpro/logo_20160323142926_logo%2Bslogan.png</logo-url>
-  </builder>
-  <apartment>
-    <types>PT</types>
-  </apartment>
-  <presentation-text>&#42;UUTUUS, NYT MYYNNISSÄ&#42;  Paikka, josta lähtemisessä on parasta kotiinpaluu.
-Upea kolmen rapatun paritalon kokonaisuus kuvankauniilla Soukanniemen alueella. Modernia asumista meren läheisyydessä, loivalla rinnetontilla. Pieni yhtiö, vain kuusi huoneistoa. Arvioitu valmistuminen 2/2021. RS-kohde.Tutustu ja varaa omasi heti. https://www.westpro.fi/villavelvet</presentation-text>
-  <address>
-    <street>Ivar Ståhlen kuja 9</street>
-    <postal-code>02360</postal-code>
-    <city>ESPOO</city>
-    <region>Espoo</region>
-    <district>Soukanniemi, Soukka, Soukanranta</district>
-    <ModifiedDate>02.10.2020 09:04</ModifiedDate>
-    <MarketingDate>03.09.2019 11:59</MarketingDate>
-  </address>
-  <construction-details>
-    <construction-complete>e</construction-complete>
-    <estimated-completion-time>2/2021</estimated-completion-time>
-    <availability>myynnissä</availability>
-    <funding-type />    <construction-phase>Suunnitteilla</construction-phase>
-  </construction-details>
-  <pictures>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190903160948_944879_Villa-Velvet---Nakyma-tielta_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190903160947_448373_Villa-Velvet---Ilmakuva_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190903160954_216500_Villa-Velvet-Talot-B_C_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190903160950_473557_Villa-Velvet-Pihanakyma_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190903160952_411106_Villa-Velvet-Talo-A_tekstilla.jpg</picture>
-  </pictures>
-  <property-development>
-    <more-info url="https://www.westpro.fi/villavelvet">
-      <link-text>Lisätietoja</link-text>
-      <link-image-url />    </more-info>
-    <virtual-presentations />  </property-development>
-  <cooperation-partners />  <publication-start-date>
-    <year>2020</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>04:55</hour>
-  </publication-start-date>
-  <publication-end-date>
-    <year>2021</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>00:00</hour>
-  </publication-end-date>
-  <pdx_coordinates>(60.125099651680195,24.67684177066883)</pdx_coordinates>
-  <pdx_loanterms />  <pdx_site_info />  <pdx_region>Uusimaa</pdx_region>
-  <pdx_silent_sale>0</pdx_silent_sale>
-  <pdx_id>7</pdx_id>
-  <presentation-text-english />  <pdx_costlocation>Westpro</pdx_costlocation>
-  <floors>2</floors>
-  <site>O</site>
-  <heating>Poistoilmalämpöpumppu, vesikiertoinen lattialämmitys, viilennykseen ilmalämpöpumppu.</heating>
-  <antenna_system>Kaapeli-tv</antenna_system>
-  <flatscount>6</flatscount>
-  <showing_time></showing_time>
-  <showing_endtime></showing_endtime>
-  <showing2_time></showing2_time>
-  <showing2_endtime></showing2_endtime>
-  <showing_info>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</showing_info>
-  <coordinates>(60.125099651680195,24.67684177066883)</coordinates>
-  <showing_agent_name>Suvi Lukjanov</showing_agent_name>
-  <showing_agent_phone>0400 474 102</showing_agent_phone>
-  <showing_agent_email>suvi.lukjanov@westpro.fi</showing_agent_email>
-  <showing2_agent_name>Suvi Lukjanov</showing2_agent_name>
-  <showing2_agent_phone>0400 474 102</showing2_agent_phone>
-  <showing2_agent_email>suvi.lukjanov@westpro.fi</showing2_agent_email>
-  <estate_agent_contact_person_name>Suvi Lukjanov</estate_agent_contact_person_name>
-  <estate_agent_contact_person_telephone>0400 474 102</estate_agent_contact_person_telephone>
-  <estate_agent_contact_person_email>suvi.lukjanov@westpro.fi</estate_agent_contact_person_email>
-  <estate_agent_contact_person_picture_url />  <maintenance_fee_basis unit="m2">3.90</maintenance_fee_basis>
-  <financing_fee_basis unit="m2">3.40</financing_fee_basis>
-  <plot_fee_basis unit="" />  <estate_agent_contact_persons>
-    <person>
-      <forename>Suvi Lukjanov ja</forename>
-      <surname>Anna-Mari Donner</surname>
-      <email>myynti@westpro.fi</email>
-      <phone>0400 355 572</phone>
-      <picture_url />    </person>
-    <person>
-      <forename>Anna-Mari</forename>
-      <surname>Donner</surname>
-      <email>anna-mari.donner@westpro.fi</email>
-      <phone>0400 727 911</phone>
-      <picture_url />    </person>
-    <person>
-      <forename>Suvi</forename>
-      <surname>Lukjanov</surname>
-      <email>suvi.lukjanov@westpro.fi</email>
-      <phone>0400 474 102</phone>
-      <picture_url />    </person>
-  </estate_agent_contact_persons>
-</housing-company>
-<housing-company>
-  <key>H8</key>
-  <number>056</number>
-  <name>Asunto Oy Origo, Espoo</name>
-  <real-estate-agent>
-    <vendor-id>y1085205-5</vendor-id>
-    <contact-email>myynti@westpro.fi</contact-email>
-  </real-estate-agent>
-  <builder>
-    <logo-url>https://kuvat.pdx.fi/westpro/logo_20160323142926_logo%2Bslogan.png</logo-url>
-  </builder>
-  <apartment>
-    <types>KT</types>
-  </apartment>
-  <presentation-text>RS-UUDISKOHDE, OMA TONTTI, MUUTTOVALMIS!
+<?xml version="1.0" encoding="ISO-8859-1"?><Apartments><Apartment type="PT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA291</Key>
+  <HousingCompanyKey>H7</HousingCompanyKey>
+  <HousingCompanyNumber>060</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">120.0</LivingArea>
+  <City>Espoo</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">778800.00</UnencumberedSalesPrice>
+  <RoomTypes>4h+k+s+varasto</RoomTypes>
+  <Region>Soukanniemi, Soukka, Soukanranta</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Pintamateriaalit: Tarkemmat materiaalitiedot erillisen materiaali- ja kalusteselostuksen mukaisesti.
+Säilytystilat: Jokaisessa asunnossa lisäksi n. 13m2 kokoinen lämmin varastorakennus sisäänkäynnin yhteydessä.</SupplementaryInformation>
+  <KitchenAppliances>Puustellin kotimainen ja tyylikäs keittiö, työtasot kvartsipuristekiveä, välitilassa taustamaalattu lasi. Kodinkoneet Siemens.</KitchenAppliances>
+  <BathroomAppliances>Laatoitettu, vesikiertoinen lattialämmitys. Varaus pyyhekuivaimelle.</BathroomAppliances>
+  <DirectionOfWindows>Ikkunat ja piha-alueet itä, etelä ja länsi. Takapiha idän suuntaan ja etupiha länteen.</DirectionOfWindows>
+  <Description>Paikka, jossa aamut alkavat sulavan pehmeästi.
 
-Origo on arkkitehti SAFA Hannu Jaakkolan suunnittelema moderni ja tyylikäs hissillinen kerrostalo Espoon Haukilahdessa hyvien liikenneyhteyksien varrella. Arjen päivittäispalvelut sijaitsevat aivan naapurissa, juuri avattu kauppakeskus Niitty ja metroasema kilometrin päässä. Lisäksi kauppakeskus Iso Omena runsaine palveluineen ja kauppoineen vain reilun 2km päässä. 
-
-Yhtiössä on  64 asuntoa, 1 liike-/ ravintolatila, 3 erillistä liiketilaa sekä 1 asunnon yhteydessä oleva työtila. Kaikkien asuntojen parvekkeet on lasitettu ja kaikkiin kerroksiin on kulku hissillä. Autohalli sijoittuu vehreän pihakannen alle. Yhtiössä on  yhteinen saunatila sekä perusvarusteltu kuntosali.
-
-Kullekin asunnolle kuuluu oma verkkokellarivarasto. 
-
-Lisätiedot ja esittelyt: 
-Suvi Lukjanov, p.  0400 474 102, suvi.lukjanov@westpro.fi
-Anna-Mari Donner p. 0400 727 911, anna-mari.donner@westpro.fi</presentation-text>
-  <address>
-    <street>Kiiskitie 1</street>
-    <postal-code>02170</postal-code>
-    <city>ESPOO</city>
-    <region>Espoo</region>
-    <district>Haukilahti</district>
-    <ModifiedDate>25.02.2020 15:21</ModifiedDate>
-    <MarketingDate>02.08.2017 17:38</MarketingDate>
-  </address>
-  <construction-details>
-    <construction-company-name>Rakentaja: Westpro cc Oy</construction-company-name>
-    <construction-complete>k</construction-complete>
-    <estimated-completion-time>2/2019</estimated-completion-time>
-    <availability>myynnissä</availability>
-    <funding-type />    <construction-phase>Luovutettu</construction-phase>
-  </construction-details>
-  <pictures>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20171107150754_290808_Origo_Facade_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20170901111209_391551_Facade_C.Origo_jpg_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20170901111212_054277_Origo_Facade_E_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20170901111210_340630_Origo_Aerial_05_info_layer_01.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20170524182811_686337_ORI__Asema_1-500_17026.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20170524182813_612191_ORI_100_Kellarikerros.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20180608110857_278259_myynnin-lisakuva--ei-henkiloita.jpg</picture>
-  </pictures>
-  <property-development>
-    <more-info url="http://westpro.fi/origo/">
-      <link-text>Lisätietoja</link-text>
-      <link-image-url />    </more-info>
-    <virtual-presentations />  </property-development>
-  <cooperation-partners />  <publication-start-date>
-    <year>2020</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>04:55</hour>
-  </publication-start-date>
-  <publication-end-date>
-    <year>2021</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>00:00</hour>
-  </publication-end-date>
-  <pdx_coordinates>(60.16423,24.774343)</pdx_coordinates>
-  <pdx_loanterms>Laina-aika: 25 vuotta. Rakennusaika ja 3 seuraavaa vuotta (yhteensä max. 5 vuotta) lyhennysvapaata, jonka jälkeen puolivuosittaiset tasalyhennykset. 6kk Euribor + marg. 1,00 %. Pankki pidättää oikeuden korkomarginaalin tarkistamiseen 5 vuoden välein, ensimmäinen tarkistusajankohta on 5 vuoden kuluttua rakennusaikaisen lainan ensimmäisestä nostosta.</pdx_loanterms>
-  <pdx_site_info />  <pdx_region>Uusimaa</pdx_region>
-  <pdx_silent_sale>0</pdx_silent_sale>
-  <pdx_id>8</pdx_id>
-  <presentation-text-english />  <pdx_costlocation>Westpro</pdx_costlocation>
-  <floors>5</floors>
-  <site>O</site>
-  <heating>Kaukolämpö, vesikiertoinen lattialämmitys.</heating>
-  <antenna_system>Kaapeli-tv</antenna_system>
-  <flatscount>64</flatscount>
-  <showing_time></showing_time>
-  <showing_endtime></showing_endtime>
-  <showing2_time></showing2_time>
-  <showing2_endtime></showing2_endtime>
-  <showing_info>TERVETULOA ESITTELYYN 12.1.2020 klo 15:15-16:15 osoitteessa Kiiskitie 1 D 57, 02170 Espoo.
-Esittelijä: Anna-Mari Donner, puh. 0400 727 911
-
-Tervetuloa tutustumaan!</showing_info>
-  <coordinates>(60.16423,24.774343)</coordinates>
-  <showing_agent_name>Anna-Mari Donner</showing_agent_name>
-  <showing_agent_phone>0400 727 911</showing_agent_phone>
-  <showing_agent_email>anna-mari.donner@westpro.fi</showing_agent_email>
-  <showing2_agent_name>Anna-Mari Donner</showing2_agent_name>
-  <showing2_agent_phone>0400 727 911</showing2_agent_phone>
-  <showing2_agent_email>anna-mari.donner@westpro.fi</showing2_agent_email>
-  <estate_agent_contact_person_name>Anna-Mari Donner</estate_agent_contact_person_name>
-  <estate_agent_contact_person_telephone>0400 727 911</estate_agent_contact_person_telephone>
-  <estate_agent_contact_person_email>anna-mari.donner@westpro.fi</estate_agent_contact_person_email>
-  <estate_agent_contact_person_picture_url />  <maintenance_fee_basis unit="m2">4.40</maintenance_fee_basis>
-  <financing_fee_basis unit="m2">3.25</financing_fee_basis>
-  <plot_fee_basis unit="" />  <estate_agent_contact_persons>
-    <person>
-      <forename>Suvi Lukjanov ja</forename>
-      <surname>Anna-Mari Donner</surname>
-      <email>myynti@westpro.fi</email>
-      <phone>0400 355 572</phone>
-      <picture_url />    </person>
-    <person>
-      <forename>Anna-Mari</forename>
-      <surname>Donner</surname>
-      <email>anna-mari.donner@westpro.fi</email>
-      <phone>0400 727 911</phone>
-      <picture_url />    </person>
-    <person>
-      <forename>Suvi</forename>
-      <surname>Lukjanov</surname>
-      <email>suvi.lukjanov@westpro.fi</email>
-      <phone>0400 474 102</phone>
-      <picture_url />    </person>
-  </estate_agent_contact_persons>
-</housing-company>
-<housing-company>
-  <key>H10</key>
-  <number>063</number>
-  <name>Asunto Oy Portus Bellus, Helsinki</name>
-  <real-estate-agent>
-    <vendor-id>y1085205-5</vendor-id>
-    <contact-email>myynti@westpro.fi</contact-email>
-  </real-estate-agent>
-  <apartment>
-    <types>KT</types>
-  </apartment>
-  <presentation-text>NYT MYYNNISSÄ! 
-Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. 
-Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia 
-tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
-
-www.portus.fi
-
-Lisätiedot ja esittelyt: 
-Asuntomyynti 0400 355 572, myynti@westpro.fi</presentation-text>
-  <address>
-    <street>Capellanranta 3</street>
-    <postal-code>00580</postal-code>
-    <city>HELSINKI</city>
-    <region>Helsinki</region>
-    <district>Verkkosaari, Kalasatama</district>
-    <ModifiedDate>05.11.2020 13:30</ModifiedDate>
-    <MarketingDate>30.05.2018 15:56</MarketingDate>
-  </address>
-  <construction-details>
-    <construction-company-name>Rakentaja: Westpro cc Oy</construction-company-name>
-    <construction-complete>k</construction-complete>
-    <estimated-completion-time>8/2020</estimated-completion-time>
-    <availability>myynnissä</availability>
-    <funding-type />    <construction-phase>Valmis</construction-phase>
-  </construction-details>
-  <pictures>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20171228150742_067504_pariskunta.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105403_231939_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105353_404900_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105354_514738_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105404_347055_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105355_617716_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105359_398582_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105356_826571_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105400_651381_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105401_899291_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424105358_067565_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190906141331_485802_Auto-_ja_venepaikat_UUSI_Page_1.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190906141334_452085_Auto-_ja_venepaikat_UUSI_Page_2.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</picture>
-  </pictures>
-  <property-development>
-    <more-info url="">
-      <link-text>Lisätietoja</link-text>
-      <link-image-url />    </more-info>
-    <virtual-presentations />  </property-development>
-  <cooperation-partners />  <publication-start-date>
-    <year>2020</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>04:55</hour>
-  </publication-start-date>
-  <publication-end-date>
-    <year>2021</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>00:00</hour>
-  </publication-end-date>
-  <pdx_coordinates>(60.188072,24.984239)</pdx_coordinates>
-  <pdx_loanterms>Laina-aika: 25 vuotta. Rakennusaika ja 3 seuraavaa vuotta (yhteensä max. 5 vuotta) lyhennysvapaata, jonka jälkeen tasalyhennykset. 6kk Euribor + marg. 0,90 %. Pankki pidättää oikeuden korkomarginaalin tarkistamiseen 5 vuoden välein.</pdx_loanterms>
-  <pdx_site_info>Tontin hallinta erillisen hallinnanjakosopimuksen mukaisesti.</pdx_site_info>
+&#42;UUTUUS, NYT MYYNNISSÄ&#42;  Paikka, josta lähtemisessä on parasta kotiinpaluu.
+Upea kolmen rapatun paritalon kokonaisuus kuvankauniilla Soukanniemen alueella. Modernia asumista meren läheisyydessä, loivalla rinnetontilla. Pieni yhtiö, vain kuusi huoneistoa. Arvioitu valmistuminen 2/2021. RS-kohde.Tutustu ja varaa omasi heti. https://www.westpro.fi/villavelvet</Description>
+  <SiteArea unit="m2">3884.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Espoon kaupunki</BuildingPlanInformation>
+  <RoofType>Loiva pulpettikatto, kumibitumikermi</RoofType>
+  <Heating>Poistoilmalämpöpumppu, vesikiertoinen lattialämmitys, viilennykseen ilmalämpöpumppu.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">288240.00</SalesPrice>
+  <Balcony>Tilava parveke lasikaiteella idän / kaakon suuntaan.</Balcony>
+  <BecomesAvailable>Arviolta 2/2021</BecomesAvailable>
+  <MaintenanceFee unit="EUR/kk">518.70</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">408.00</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <OtherFees>Ilmoitettu rahoitusvastikearvio on lyhennysvapaan ajalta, eli arviolta 2 ensimmäistä asuinvuotta. Tällöin rahoitusvastikkeessa maksetaan vain korkoa. Lyhennysvapaan jälkeen laina-aika 22 vuotta.</OtherFees>
+  <WaterFee unit="EUR/kk">21.00</WaterFee>
+  <WaterFeeExplanation>21.00 EUR/kk. Asukasluvun mukaan.</WaterFeeExplanation>
+  <PostalCode>02360</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>2 per asunto, joista 1 autokatos ja 1 avopaikka sähköpistokkein. Varaus 3 x 16A.</ParkingSpace>
+  <CommonAreas>Talousrakennus, jossa tekninen tila ja jätehuone / -katos.</CommonAreas>
+  <NumberOfApartments>6</NumberOfApartments>
+  <Disponent></Disponent>
+  <HousingCompanyName>Asunto Oy Villa Velvet, Espoo</HousingCompanyName>
+  <VendorIdentifier>1</VendorIdentifier>
+  <StreetAddress>Ivar Ståhlen kuja 9 A1</StreetAddress>
+  <FloorLocation />  <BuildingMaterial>Puurunko, rappauspinta</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation2>
+  <OikotieID>7705896</OikotieID>
+  <Latitude>60.12510</Latitude>
+  <Longitude>24.67684</Longitude>
+  <ExtraVisibilityStartDateTime>2019-10-07T13:00:00</ExtraVisibilityStartDateTime>
+  <VentilationSystem>Koneellinen huoneistokohtainen ilmanvaihto, viilennys ilmalämpöpumpulla.</VentilationSystem>
+  <AreaInformation>Asuinhuoneistoala 120 m2. Lisäksi asuntokohtainen lämmin varasto n. 13 m2.</AreaInformation>
+  <rc-energyclass>Energialuokka: B2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="E" own="K">Oma sauna, sähkökiuas, kuituvalaistus.</Sauna>
+  <pdx_id>293</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <FlatNumber>A1</FlatNumber>
+  <TotalFee>926.7</TotalFee>
+  <DebtPart>490560.00</DebtPart>
+  <AreaAdditional>13.0</AreaAdditional>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>05.10.2020 16:33</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <site_number>134-5</site_number>
+  <FlatShareNos>1-436</FlatShareNos>
+  <pdx_flat_number>A1</pdx_flat_number>
   <pdx_region>Uusimaa</pdx_region>
-  <pdx_silent_sale>0</pdx_silent_sale>
-  <pdx_id>10</pdx_id>
-  <presentation-text-english />  <pdx_costlocation>Westpro Portus Ky</pdx_costlocation>
-  <floors>8</floors>
-  <site>O</site>
-  <heating>Kts. rakennustapa- ja erikoistyöselostus.</heating>
-  <antenna_system>Kaapeli-tv</antenna_system>
-  <flatscount>49</flatscount>
-  <showing_time></showing_time>
-  <showing_endtime></showing_endtime>
-  <showing2_time></showing2_time>
-  <showing2_endtime></showing2_endtime>
-  <showing_info>TERVETULOA ESITTELYYN PORTUKSEN B-portaan asuntoihin B30 ja B37.
+  <pdx_area_additional>13.0</pdx_area_additional>
+  <pdx_flat_share_count>436</pdx_flat_share_count>
+  <Sorting>1</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="E" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904095712_831105_Villa-Velvet-Olohuone_B3_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904095714_901281_Villa-Velvet-Parveke_C6_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904095717_429871_Villa-Velvet-Terassi_B3_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="assignment">https://cdn.pdx.fi/westpro/20200611121048_544898_A1__1.krs.jpg</Picture4>
+  <Picture5 sourceType="assignment">https://cdn.pdx.fi/westpro/20200611121113_259068_A1__2.krs.jpg</Picture5>
+  <Picture6 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904095710_389472_Villa-Velvet-Makuuhuone_C6_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100258_222462_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160948_944879_Villa-Velvet---Nakyma-tielta_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160947_448373_Villa-Velvet---Ilmakuva_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160954_216500_Villa-Velvet-Talot-B_C_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160950_473557_Villa-Velvet-Pihanakyma_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160952_411106_Villa-Velvet-Talo-A_tekstilla.jpg</Picture12>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400 474 102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro cc Oy</Name>
+    <BusinessId>1085205-5</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+  <Reservations>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+  </Reservations>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE" newApartmentReserved="K">
+  <Key>TA842</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">121.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">1185000.00</UnencumberedSalesPrice>
+  <RoomTypes>4H+KT+S</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Värimaailmaksi on valittu vaalea ja raikas LUOTO.
+Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Pohjoinen ja etelä, läpitalon huoneisto.</DirectionOfWindows>
+  <Description>MYYNNISSÄ Portus II-vaihe! Silmiä hivelevä merimaisema aukeaa tämän asunnon lasitetulta parvekkeelta sekä makuuhuoneesta Vanhankaupunginselälle. Monimuotoinen ja tilava kolmen makuuhuoneen koti perheelle, joka haluaa jotain tavanomaisesta poikkeavaa. Läpitalon huoneisto, kaksi lasitettua parveketta.
 
-Esittely sunnuntaina 16.1.2020 klo 14:00-14:45 osoitteessa Capellanranta 3 B, 00580 Helsinki.
-Esittelijät: Anna-Mari Donner, puh. 0400 727 911 ja Suvi Lukjanov, puh. 0400 474 102
-
-Tervetuloa tutustumaan upeaan, rakenteilla olevaan Portukseen paikan päälle ja varaamaan oma unelmakotinne!</showing_info>
-  <coordinates>(60.188072,24.984239)</coordinates>
-  <showing_agent_name>Suvi Lukjanov ja Anna-Mari Donner</showing_agent_name>
-  <showing_agent_phone>0400 355 572</showing_agent_phone>
-  <showing_agent_email>myynti@westpro.fi</showing_agent_email>
-  <showing2_agent_name>Suvi Lukjanov ja Anna-Mari Donner</showing2_agent_name>
-  <showing2_agent_phone>0400 355 572</showing2_agent_phone>
-  <showing2_agent_email>myynti@westpro.fi</showing2_agent_email>
-  <estate_agent_contact_person_name>Suvi Lukjanov ja Anna-Mari Donner</estate_agent_contact_person_name>
-  <estate_agent_contact_person_telephone>0400 355 572</estate_agent_contact_person_telephone>
-  <estate_agent_contact_person_email>myynti@westpro.fi</estate_agent_contact_person_email>
-  <estate_agent_contact_person_picture_url />  <maintenance_fee_basis unit="m2">5.20</maintenance_fee_basis>
-  <financing_fee_basis unit="allocation">5.80</financing_fee_basis>
-  <plot_fee_basis unit="" /></housing-company>
-<housing-company>
-  <key>H13</key>
-  <number>065</number>
-  <name>Asunto Oy Portus Magnus, Helsinki</name>
-  <real-estate-agent>
-    <vendor-id>y1085205-5</vendor-id>
-    <contact-email>myynti@westpro.fi</contact-email>
-  </real-estate-agent>
-  <apartment>
-    <types>KT</types>
-  </apartment>
-  <presentation-text>MYYNTI ON KÄYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
-
-Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Magnus (E-porras) pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja pienistä kaksioista aina tilaviin perheasuntoihin. Varaa omasi pian!
-
-Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
-
-Oma tontti. Esteetön kulku. RS-kohde.
-
-Värimaailmaksi valittuvaalea ja raikas LUOTO.
-www.portus.fi
-
-Lisätiedot ja esittelyt: 
-Asuntomyynti 0400 355 572, myynti@westpro.fi</presentation-text>
-  <address>
-    <street>Capellanranta 3</street>
-    <postal-code>00580</postal-code>
-    <city>HELSINKI</city>
-    <region>Helsinki</region>
-    <district>Verkkosaari, Kalasatama</district>
-    <ModifiedDate>29.09.2020 18:54</ModifiedDate>
-    <MarketingDate>28.05.2019 17:31</MarketingDate>
-  </address>
-  <construction-details>
-    <construction-company-name>Rakentaja: Westpro cc Oy</construction-company-name>
-    <construction-complete>e</construction-complete>
-    <estimated-completion-time>8/2021</estimated-completion-time>
-    <availability>myynnissä</availability>
-    <funding-type />    <construction-phase>Rakenteilla</construction-phase>
-  </construction-details>
-  <pictures>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20181126105453_473854_fb_postaus_pariskunta.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104429_093525_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104427_927459_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104426_752984_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104430_235445_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104431_458519_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104432_806356_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104433_956075_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104435_198899_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104436_557174_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104437_819190_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190906141204_810538_Auto-_ja_venepaikat_UUSI_Page_1.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190906141208_231848_Auto-_ja_venepaikat_UUSI_Page_2.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20181123152024_189604_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</picture>
-  </pictures>
-  <property-development>
-    <more-info url="https://www.westpro.fi/portus">
-      <link-text>Lisätietoja</link-text>
-      <link-image-url />    </more-info>
-    <virtual-presentations />  </property-development>
-  <cooperation-partners />  <publication-start-date>
-    <year>2020</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>04:55</hour>
-  </publication-start-date>
-  <publication-end-date>
-    <year>2021</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>00:00</hour>
-  </publication-end-date>
-  <pdx_coordinates>(60.187625,24.983981)</pdx_coordinates>
-  <pdx_loanterms />  <pdx_site_info>Tontin hallinta erillisen hallinnanjakosopimuksen mukaisesti.</pdx_site_info>
-  <pdx_region>Uusimaa</pdx_region>
-  <pdx_silent_sale>0</pdx_silent_sale>
-  <pdx_id>13</pdx_id>
-  <presentation-text-english />  <pdx_costlocation>Westpro Portus Ky</pdx_costlocation>
-  <floors>9</floors>
-  <site>O</site>
-  <heating>Kts. rakennustapa- ja erikoistyöselostus.</heating>
-  <antenna_system>Kaapeli-tv</antenna_system>
-  <flatscount>32</flatscount>
-  <showing_time></showing_time>
-  <showing_endtime></showing_endtime>
-  <showing2_time></showing2_time>
-  <showing2_endtime></showing2_endtime>
-  <showing_info>Esittelijä: Suvi Lukjanov, p. 0400 474 102
-
-Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</showing_info>
-  <coordinates>(60.187625,24.983981)</coordinates>
-  <showing_agent_name>Suvi Lukjanov</showing_agent_name>
-  <showing_agent_phone>0400 474 102</showing_agent_phone>
-  <showing_agent_email>suvi.lukjanov@westpro.fi</showing_agent_email>
-  <showing2_agent_name>Suvi Lukjanov</showing2_agent_name>
-  <showing2_agent_phone>0400 474 102</showing2_agent_phone>
-  <showing2_agent_email>suvi.lukjanov@westpro.fi</showing2_agent_email>
-  <estate_agent_contact_person_name>Suvi Lukjanov</estate_agent_contact_person_name>
-  <estate_agent_contact_person_telephone>0400 474 102</estate_agent_contact_person_telephone>
-  <estate_agent_contact_person_email>suvi.lukjanov@westpro.fi</estate_agent_contact_person_email>
-  <estate_agent_contact_person_picture_url />  <maintenance_fee_basis unit="m2">5.20</maintenance_fee_basis>
-  <financing_fee_basis unit="allocation">3.29</financing_fee_basis>
-  <plot_fee_basis unit="" /></housing-company>
-<housing-company>
-  <key>H14</key>
-  <number>067</number>
-  <name>Asunto Oy Portus Optimus, Helsinki</name>
-  <real-estate-agent>
-    <vendor-id>y1085205-5</vendor-id>
-    <contact-email>myynti@westpro.fi</contact-email>
-  </real-estate-agent>
-  <apartment>
-    <types>KT</types>
-  </apartment>
-  <presentation-text>NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
 
 Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
 
@@ -451,85 +145,2067 @@ www.portus.fi
 Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
 
 Lisätiedot ja esittelyt: 
-Asuntomyynti 0400 355 572, myynti@westpro.fi</presentation-text>
-  <address>
-    <street>Capellanranta 3</street>
-    <postal-code>00580</postal-code>
-    <city>HELSINKI</city>
-    <region>Helsinki</region>
-    <district>Verkkosaari, Kalasatama</district>
-    <ModifiedDate>29.09.2020 18:54</ModifiedDate>
-    <MarketingDate>28.05.2019 18:11</MarketingDate>
-  </address>
-  <construction-details>
-    <construction-company-name>Rakentaja: Westpro cc Oy</construction-company-name>
-    <construction-complete>e</construction-complete>
-    <estimated-completion-time>8/2021</estimated-completion-time>
-    <availability>myynnissä</availability>
-    <funding-type />    <construction-phase>Rakenteilla</construction-phase>
-  </construction-details>
-  <pictures>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</picture>
-    <picture time-stamp="" caption="">https://kuvat.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</picture>
-  </pictures>
-  <property-development>
-    <more-info url="https://www.westpro.fi/portus">
-      <link-text>Lisätietoja</link-text>
-      <link-image-url />    </more-info>
-    <virtual-presentations />  </property-development>
-  <cooperation-partners />  <publication-start-date>
-    <year>2020</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>04:55</hour>
-  </publication-start-date>
-  <publication-end-date>
-    <year>2021</year>
-    <month>11</month>
-    <day>09</day>
-    <hour>00:00</hour>
-  </publication-end-date>
-  <pdx_coordinates>(60.187625,24.983981)</pdx_coordinates>
-  <pdx_loanterms />  <pdx_site_info>Tontin hallinta erillisen hallinnanjakosopimuksen mukaisesti.</pdx_site_info>
-  <pdx_region>Uusimaa</pdx_region>
-  <pdx_silent_sale>0</pdx_silent_sale>
-  <pdx_id>14</pdx_id>
-  <presentation-text-english />  <pdx_costlocation>Westpro Portus Ky</pdx_costlocation>
-  <floors>14</floors>
-  <site>O</site>
-  <heating>Kts. rakennustapa- ja erikoistyöselostus.</heating>
-  <antenna_system>Kaapeli-tv</antenna_system>
-  <flatscount>61</flatscount>
-  <showing_time></showing_time>
-  <showing_endtime></showing_endtime>
-  <showing2_time></showing2_time>
-  <showing2_endtime></showing2_endtime>
-  <showing_info>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">472080.00</SalesPrice>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">629.20</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">542.36</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F33</StreetAddress>
+  <FloorLocation>7/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
 
-Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</showing_info>
-  <coordinates>(60.187625,24.983981)</coordinates>
-  <showing_agent_name>Suvi Lukjanov</showing_agent_name>
-  <showing_agent_phone>0400 474 102</showing_agent_phone>
-  <showing_agent_email>suvi.lukjanov@westpro.fi</showing_agent_email>
-  <showing2_agent_name>Suvi Lukjanov</showing2_agent_name>
-  <showing2_agent_phone>0400 474 102</showing2_agent_phone>
-  <showing2_agent_email>suvi.lukjanov@westpro.fi</showing2_agent_email>
-  <estate_agent_contact_person_name>Suvi Lukjanov</estate_agent_contact_person_name>
-  <estate_agent_contact_person_telephone>0400 474 102</estate_agent_contact_person_telephone>
-  <estate_agent_contact_person_email>suvi.lukjanov@westpro.fi</estate_agent_contact_person_email>
-  <estate_agent_contact_person_picture_url />  <maintenance_fee_basis unit="m2">5.20</maintenance_fee_basis>
-  <financing_fee_basis unit="allocation">10.43</financing_fee_basis>
-  <plot_fee_basis unit="" /></housing-company>
-</housing-companies>
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869450</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="K" />  <pdx_id>848</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <TargetNewLink>https://www.westpro.fi/portus</TargetNewLink>
+  <FlatNumber>F33</FlatNumber>
+  <TotalFee>1171.56</TotalFee>
+  <DebtPart>712920.00</DebtPart>
+  <DealDate>15.12.2020</DealDate>
+  <Status>Varattu</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>08.12.2020 13:10</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>1155-1207</FlatShareNos>
+  <pdx_flat_number>F33</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>53</pdx_flat_share_count>
+  <Sorting>33</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>2912.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423125952_344809_Portus_3D_F33_03_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190514145341_106193_OPTIMUS.33_F33__4H_KT_S_121_0.jpg</Picture2>
+  <Picture3 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture16>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+  <Reservations>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Ennakkovaraussopimus</Type>
+    </Reservation>
+  </Reservations>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA847</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">121.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">1241000.00</UnencumberedSalesPrice>
+  <RoomTypes>4H+KT+S</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Pohjoiseen ja etelään, läpitalon huoneisto.</DirectionOfWindows>
+  <Description>MYYNNISSÄ Portus II-vaihe! Silmiä hivelevä merimaisema aukeaa tämän asunnon lasitetulta parvekkeelta sekä makuuhuoneesta Vanhankaupunginselälle. Monimuotoinen ja tilava kolmen makuuhuoneen koti perheelle, joka haluaa jotain tavanomaisesta poikkeavaa. Läpitalon huoneisto, kaksi lasitettua parveketta.
+
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+Oma tontti. Esteetön kulku.
+
+www.portus.fi
+
+Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">500660.00</SalesPrice>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">629.20</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">563.22</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F38</StreetAddress>
+  <FloorLocation>8/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869461</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="K" />  <pdx_id>853</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <TargetNewLink>https://www.westpro.fi/portus</TargetNewLink>
+  <FlatNumber>F38</FlatNumber>
+  <TotalFee>1192.42</TotalFee>
+  <DebtPart>740340.00</DebtPart>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>21.08.2019 13:44</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>1363-1415</FlatShareNos>
+  <pdx_flat_number>F38</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>53</pdx_flat_share_count>
+  <Sorting>38</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>3024.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20181130085136_116744_Portus_INT_F38_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423130201_067646_Portus_3D_F38_03_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190514145414_730911_OPTIMUS.38_F38__4H_KT_S_121_0.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture16>
+  <Picture17 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture17>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA851</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">102.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">1066000.00</UnencumberedSalesPrice>
+  <RoomTypes>4H+KT+S</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Etelään.</DirectionOfWindows>
+  <Description>
+
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+Oma tontti. Esteetön kulku.
+
+www.portus.fi
+
+Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">421630.00</SalesPrice>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">530.40</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">490.21</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F42</StreetAddress>
+  <FloorLocation>9/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869465</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="K" />  <pdx_id>857</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <TargetNewLink>https://www.westpro.fi/portus</TargetNewLink>
+  <FlatNumber>F42</FlatNumber>
+  <TotalFee>1020.61</TotalFee>
+  <DebtPart>644370.00</DebtPart>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>03.12.2020 11:51</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>1526-1570</FlatShareNos>
+  <pdx_flat_number>F42</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>45</pdx_flat_share_count>
+  <Sorting>42</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>2632.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423130347_815696_Portus_3D_F42_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190118155120_201524_Portus_INT_F32_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190417125741_119404_AS_OY_PORTUS_OPTIMUS.42_F42__4H_KT_S__102_0.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture16>
+  <Picture17 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture17>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA852</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">121.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">1295000.00</UnencumberedSalesPrice>
+  <RoomTypes>4H+KT+S</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Pohjoinen ja etelä, läpitalon huoneisto.</DirectionOfWindows>
+  <Description>MYYNNISSÄ Portus II-vaihe! Silmiä hivelevä merimaisema aukeaa tämän asunnon lasitetulta parvekkeelta sekä makuuhuoneesta Vanhankaupunginselälle. Monimuotoinen ja tilava kolmen makuuhuoneen koti perheelle, joka haluaa jotain tavanomaisesta poikkeavaa. Läpitalon huoneisto, kaksi lasitettua parveketta.
+
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+Oma tontti. Esteetön kulku.
+
+www.portus.fi
+
+Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">513530.00</SalesPrice>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">629.20</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">594.51</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F43</StreetAddress>
+  <FloorLocation>9/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869467</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <ExtraVisibilityStartDateTime>2019-10-16T19:00:00</ExtraVisibilityStartDateTime>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="K" />  <pdx_id>858</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <TargetNewLink>https://www.westpro.fi/portus</TargetNewLink>
+  <FlatNumber>F43</FlatNumber>
+  <TotalFee>1223.71</TotalFee>
+  <DebtPart>781470.00</DebtPart>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>08.09.2020 09:07</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>1571-1623</FlatShareNos>
+  <pdx_flat_number>F43</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>53</pdx_flat_share_count>
+  <Sorting>43</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>3192.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423130412_217495_Portus_3D_F43_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190417130644_069231_AS_OY_PORTUS_OPTIMUS.43_F43__4H_KT_S_121_0.jpg</Picture2>
+  <Picture3 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture16>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE" newApartmentReserved="K">
+  <Key>TA853</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">49.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">475500.00</UnencumberedSalesPrice>
+  <RoomTypes>2H+KT</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Pohjoinen esteetön merimaisema.</DirectionOfWindows>
+  <Description>MYYNNISSÄ Portus II-vaihe! Silmiä hivelevä merimaisema aukeaa tämän asunnon lasitetulta parvekkeelta sekä makuuhuoneesta Vanhankaupunginselälle. Monimuotoinen ja tilava kaksio.
+
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+Oma tontti. Esteetön kulku.
+
+www.portus.fi
+
+Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>2</NumberOfRooms>
+  <SalesPrice currency="EUR">187590.00</SalesPrice>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">254.80</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">219.03</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F44</StreetAddress>
+  <FloorLocation>9/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869469</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="E" />  <pdx_id>859</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <FlatNumber>F44</FlatNumber>
+  <TotalFee>473.83</TotalFee>
+  <DebtPart>287910.00</DebtPart>
+  <Status>Varattu</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>09.12.2020 11:15</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>1624-1645</FlatShareNos>
+  <pdx_flat_number>F44</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>22</pdx_flat_share_count>
+  <Sorting>44</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>1176.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423130437_669338_Portus_3D_F44_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190417130721_357497_AS_OY_PORTUS_OPTIMUS.44_F44_2H_KT_49_0.jpg</Picture2>
+  <Picture3 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture16>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+  <Reservations>
+    <Reservation>
+      <Type>Ennakkovaraussopimus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+  </Reservations>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA856</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">102.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">1112000.00</UnencumberedSalesPrice>
+  <RoomTypes>4H+KT+S</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Etelään.</DirectionOfWindows>
+  <Description>
+
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+Oma tontti. Esteetön kulku.
+
+www.portus.fi
+
+Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">440210.00</SalesPrice>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">530.40</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">511.07</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F47</StreetAddress>
+  <FloorLocation>10/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869474</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="K" />  <pdx_id>862</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <TargetNewLink>https://www.westpro.fi/portus</TargetNewLink>
+  <FlatNumber>F47</FlatNumber>
+  <TotalFee>1041.47</TotalFee>
+  <DebtPart>671790.00</DebtPart>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>24.07.2019 12:52</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>1734-1778</FlatShareNos>
+  <pdx_flat_number>F47</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>45</pdx_flat_share_count>
+  <Sorting>47</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>2744.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190118155249_943489_Portus_INT_F32_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423130551_988243_Portus_3D_F47_03_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190417131201_482382_AS_OY_PORTUS_OPTIMUS.47_F47__4H_KT_S__102_0.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture16>
+  <Picture17 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture17>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE" newApartmentReserved="K">
+  <Key>TA858</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">49.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">490000.00</UnencumberedSalesPrice>
+  <RoomTypes>2H+KT</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Pohjoinen esteetön merimaisema.</DirectionOfWindows>
+  <Description>MYYNNISSÄ Portus II-vaihe! Silmiä hivelevä merimaisema aukeaa tämän asunnon lasitetulta parvekkeelta sekä makuuhuoneesta Vanhankaupunginselälle. Monimuotoinen ja tilava kaksio.
+
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+Oma tontti. Esteetön kulku.
+
+www.portus.fi
+
+Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>2</NumberOfRooms>
+  <SalesPrice currency="EUR">202090.00</SalesPrice>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">254.80</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">219.03</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F49</StreetAddress>
+  <FloorLocation>10/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869479</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <ExtraVisibilityStartDateTime>2019-10-16T19:00:00</ExtraVisibilityStartDateTime>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="E" />  <pdx_id>864</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <TargetNewLink>https://www.westpro.fi/portus</TargetNewLink>
+  <FlatNumber>F49</FlatNumber>
+  <TotalFee>473.83</TotalFee>
+  <DebtPart>287910.00</DebtPart>
+  <Status>Varattu</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>09.12.2020 11:16</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>1832-1853</FlatShareNos>
+  <pdx_flat_number>F49</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>22</pdx_flat_share_count>
+  <Sorting>49</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>1176.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423144604_791977_Portus_3D_F49_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190417131412_064817_AS_OY_PORTUS_OPTIMUS.49_F49__2H_KT_49_0.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture16>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+  <Reservations>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Ennakkovaraussopimus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+  </Reservations>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA861</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">102.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">1163000.00</UnencumberedSalesPrice>
+  <RoomTypes>4H+KT+S</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Etelään.</DirectionOfWindows>
+  <Description>
+
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+Oma tontti. Esteetön kulku.
+
+www.portus.fi
+
+Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">463790.00</SalesPrice>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">530.40</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">531.93</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F52</StreetAddress>
+  <FloorLocation>11/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869485</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="K" />  <pdx_id>867</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <TargetNewLink>https://www.westpro.fi/portus</TargetNewLink>
+  <FlatNumber>F52</FlatNumber>
+  <TotalFee>1062.33</TotalFee>
+  <DebtPart>699210.00</DebtPart>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>19.11.2020 12:56</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>1942-1986</FlatShareNos>
+  <pdx_flat_number>F52</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>45</pdx_flat_share_count>
+  <Sorting>52</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>2856.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423144723_847255_Portus_3D_F52_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190826152748_088181_OPTIMUS.52_F52__4H_KT_S__102_0.jpg</Picture3>
+  <Picture4 sourceType="assignment">https://cdn.pdx.fi/westpro/20190118155333_220681_Portus_INT_F32_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture16>
+  <Picture17 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture17>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA864</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">133.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">1650000.00</UnencumberedSalesPrice>
+  <RoomTypes>5H+KT+S+ TAKKA</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Itään ja etelään.</DirectionOfWindows>
+  <Description>
+
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+Oma tontti. Esteetön kulku.
+
+www.portus.fi
+
+Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>5</NumberOfRooms>
+  <SalesPrice currency="EUR">662880.00</SalesPrice>
+  <BecomesAvailable>alustavasti syksy 2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">691.60</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">750.96</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F55</StreetAddress>
+  <FloorLocation>12/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869489</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="K" />  <pdx_id>870</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <TargetNewLink>https://www.westpro.fi/portus</TargetNewLink>
+  <FlatNumber>F55</FlatNumber>
+  <TotalFee>1442.56</TotalFee>
+  <DebtPart>987120.00</DebtPart>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>08.09.2020 09:07</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>2089-2146</FlatShareNos>
+  <pdx_flat_number>F55</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>58</pdx_flat_share_count>
+  <Sorting>55</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>4032.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20181130085307_493422_Portus_INT_F55_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423144841_742209_Portus_3D_F55_03_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190613165445_764158_OPTIMUS.55_F55__5H_KT_S_TAKKA_133.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture16>
+  <Picture17 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture17>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA866</Key>
+  <HousingCompanyKey>H14</HousingCompanyKey>
+  <HousingCompanyNumber>067</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">104.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">1276000.00</UnencumberedSalesPrice>
+  <RoomTypes>4H+KT+S+ TAKKA</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <DirectionOfWindows>Pohjoiseen ja itään.</DirectionOfWindows>
+  <Description>
+
+NYT MYYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Optimus (F-porras) rakentuu pääosin meren päälle ja pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja yksiöistä aina tilaviin perheasuntoihin ja edustaviin terassikoteihin. Varaa omasi pian! 
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+Oma tontti. Esteetön kulku.
+
+www.portus.fi
+
+Värimaailmaksi huoneistoihin valittu vaalea ja raikas LUOTO.
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">508240.00</SalesPrice>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Syksyllä 2018 avautunut kauppakeskus- ja elämyskeskus Redin palvelut välittömässä läheisyydessä, 2018 käyttöönotettu terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">540.80</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">584.08</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <PostalCode>00580</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>61</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Optimus, Helsinki</HousingCompanyName>
+  <OfficeArea>100,00</OfficeArea>
+  <NumberOfOffices>1</NumberOfOffices>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 F57</StreetAddress>
+  <FloorLocation>13/14</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7869491</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="K" />  <pdx_id>872</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <TargetNewLink>https://www.westpro.fi/portus</TargetNewLink>
+  <FlatNumber>F57</FlatNumber>
+  <TotalFee>1124.88</TotalFee>
+  <DebtPart>767760.00</DebtPart>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>02.12.2020 10:20</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>10</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>2198-2243</FlatShareNos>
+  <pdx_flat_number>F57</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>46</pdx_flat_share_count>
+  <Sorting>57</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>3136.00</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423145103_360639_Portus_3D_F57_03_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190417132518_436902_OPTIMUS.57_F57__4H_KT_S_TAKKA_104.jpg</Picture2>
+  <Picture3 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104205_736845_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104202_138813_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104159_818521_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104201_013832_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104203_296117_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104204_565407_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104206_974258_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104208_260435_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104209_573093_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104210_746865_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105634_291542_fb_postaus_pariskunta.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141007_957593_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141011_753102_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20181123151728_885711_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture16>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+</Apartment>
+<Apartment type="KT" newHouses="K" realEstateType="OSAKE" newApartmentReserved="K">
+  <Key>TA968</Key>
+  <HousingCompanyKey>H13</HousingCompanyKey>
+  <HousingCompanyNumber>065</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">103.0</LivingArea>
+  <City>Helsinki</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">872000.00</UnencumberedSalesPrice>
+  <RoomTypes>3H+KT+S</RoomTypes>
+  <Region>Verkkosaari, Kalasatama</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Värimaailmaksi on valittu vaalea ja valoisa LUOTO.
+Katso lisätiedot www.portus.fi</SupplementaryInformation>
+  <KitchenAppliances>Keittiön kaapistot Saari Venezia, maalattu valkoinen. Työtaso kvartsikomposiitti,
+valkoinen, 2cm.Kodinkoneet Miele; integroitavat jääkaappi, pakastin ja astianpesukone. Induktio keittotaso, pyrolyysiuuni (rosteri), grillimikro. Kalusteväli valkoinen lasi.</KitchenAppliances>
+  <BathroomAppliances>Lattia Surface Off white 10x10, seinät ABL White Line 30x60 kiiltävä,
+asennus vaakaan. Ei tehostelaattaa. Pesuhuoneen sisäkatto tervaleppäpaneeli. Allas + allaskaappi; INR/Sanka GRAND valkoinen pistorasialla ja lisävarusteilla varustettu 60 cm leveä allaskaappi laatikostolla, laatikkomatolla sekä organizer - järjestelijällä. Valopeili Scene 60cm integroidulla LED-valaisimilla. Kirkas suihkuseinä. WC-istuin IDO, lattiamalli.</BathroomAppliances>
+  <DirectionOfWindows>Länsi / luode ja kaakko.</DirectionOfWindows>
+  <Description>MYYNNISSÄ Portus II-vaihe!  Tässä kolmiossa ei ole ahdasta. Erillinen keittiötila ja jättimäinen olohuone, kaksi eri suuntiin aukeavaa, lasitettua parveketta. Ikkunat ja parvekkeet aukeavat kaakkoon sekä luoteeseen.
+
+MYYNTI ON KÄYNNISSÄ! Portuksen toinen vaihe. RS-kohde.
+
+Portuksen toinen vaihe on nyt myynnissä! Asunto Oy Magnus (E-porras) pitää sisällään toinen toistaan upeampia koteja ja mielenkiintoisia pohjaratkaisuja pienistä kaksioista aina tilaviin perheasuntoihin. Varaa omasi pian!
+
+Portus on Helsingin Verkkosaarenrantaan, osin meren ylle, rakennettava arkkitehtoninen mestariteos. Oma satama, henkeäsalpaava merinäköala, rantasauna ja moderni, tulevaisuuteen katsova arkkitehtuuri keskellä pääkaupunkia tekevät Portuksesta ainutlaatuisen kohteen myös kansainvälisellä mittapuulla. Tee sijoitus, joka maksaa osinkoa joka päivä.
+
+Oma tontti. Esteetön kulku. RS-kohde.
+
+Värimaailmaksi valittuvaalea ja raikas LUOTO.
+www.portus.fi
+
+Lisätiedot ja esittelyt: 
+Asuntomyynti 0400 355 572, myynti@westpro.fi</Description>
+  <SiteArea unit="m2">5922.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Helsingin kaupunki</BuildingPlanInformation>
+  <RoofType>Kts. rakennustapa- ja erikoistyöselostus.</RoofType>
+  <Heating>Kts. rakennustapa- ja erikoistyöselostus.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>3</NumberOfRooms>
+  <SalesPrice currency="EUR">349280.00</SalesPrice>
+  <Balcony>Kaksi lasitettua parveketta.</Balcony>
+  <BecomesAvailable>Arvioitu valmistuminen 31.8.2021</BecomesAvailable>
+  <Services>Kauppakeskus ja elämyskeskus Redin palvelut välittömässä läheisyydessä, terveys- ja hyvinvointikeskus, Teurastamon monet palvelut ja kulttuurielämykset lähellä., Koulut: Kalasataman päiväkoti ja peruskoulu sekä Kalasataman peruskoulun 2. vaihe 2019-2020.</Services>
+  <Connections>Monipuolinen joukkoliikenne: metro, bussilinjat ja 2026 avautuva Kruunusillat- raitiolinja.</Connections>
+  <MaintenanceFee unit="EUR/kk">535.60</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">398.09</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <WaterFee unit="EUR/kk">20.00</WaterFee>
+  <WaterFeeExplanation>20.00 EUR/kk. Tasaus kulutuksen mukaan</WaterFeeExplanation>
+  <VirtualPresentation>https://www.westpro.fi/portus</VirtualPresentation>
+  <PostalCode>00580</PostalCode>
+  <BedroomAppliances>Shade Tammi Cream White MidiPlank Tarkett Shade-malliston luonnollinen vaalea tammiparketti. Seinät maalattu valkoisiksi.</BedroomAppliances>
+  <LivingRoomAppliances>Shade Tammi Cream White MidiPlank Tarkett Shade-malliston luonnollinen vaalea tammiparketti. Seinät maalattu valkoisiksi.</LivingRoomAppliances>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>Autopaikat toteutetaan korttelin asunto-osakeyhtiöiden yhteiseen omistukseen jäävän pihakannen alla sijaitsevaan kaksikerroksiseen autohalliin. Autohallipaikat myydään erillisinä osakkeina.  Autohallipaikat on varustettu lämpöpistokkeilla ja osa autohallipaikoista sähköauton latauspisteillä.</ParkingSpace>
+  <CommonAreas>Taloyhtiön yhteinen kuntosali, kuivaushuone, lastenvaunuvarasto, pyörävarasto, ulkoiluvälinevarasto, talopesula, talosauna, uimalaituri, vierashuone, kierrätyshuone  sekä polkupyörien huoltohuone.</CommonAreas>
+  <NumberOfApartments>32</NumberOfApartments>
+  <HousingCompanyName>Asunto Oy Portus Magnus, Helsinki</HousingCompanyName>
+  <VendorIdentifier>2</VendorIdentifier>
+  <StreetAddress>Capellanranta 3 E23</StreetAddress>
+  <FloorLocation>6/9</FloorLocation>
+  <BuildingMaterial>Kts. rakennustapa- ja erikoistyöselostus.</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Esittelijä: Suvi Lukjanov, p. 0400 474 102
+
+Tervetuloa keskustelemaan ja kyselemään rakenteilla olevasta Portuksesta Capellanranta 3 D liiketilaan. Valitettavasti asunnoille ei ole pääsyä tällä esittelyllä.</ShowingDateExplanation2>
+  <OikotieID>7871087</OikotieID>
+  <Latitude>60.18762</Latitude>
+  <Longitude>24.98398</Longitude>
+  <VentilationSystem>Kts. rakennustapa- ja erikoistyöselostus.</VentilationSystem>
+  <InternetAppliances>Datakaapelointi mahdollistaa nopeat kuituyhteydet. Asunnoissa on Elisan perusnopeuksinen laajakaistaliittymä, jonka kustannus sisältyy hoitovastikkeeseen.</InternetAppliances>
+  <rc-energyclass>Energialuokka: C2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="K" own="K">Kiuas Harvia Cilindro. Seinät, saunan katto ja lauteet tervaleppää. Lattia laatoitettu Surface Off white 10 x 10.</Sauna>
+  <pdx_id>974</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <FlatNumber>E23</FlatNumber>
+  <TotalFee>933.69</TotalFee>
+  <DebtPart>522720.00</DebtPart>
+  <Status>Varattu</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>09.11.2020 13:27</ModifiedDate>
+  <utility_room>Kodinhoitotila erillisen WC:n tiloissa liukuovien takana.</utility_room>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <redemption_carslot>9</redemption_carslot>
+  <site_number>601-1</site_number>
+  <FlatShareNos>1461-1576</FlatShareNos>
+  <pdx_flat_number>E23</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_flat_share_count>116</pdx_flat_share_count>
+  <Sorting>23</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <FinancingFeeIncludingInstallment>2330.46</FinancingFeeIncludingInstallment>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="K" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="housing">https://cdn.pdx.fi/westpro/20181126105453_473854_fb_postaus_pariskunta.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190423153446_196211_Portus_3D_E23_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190507151908_560847_MAGNUS.23_E23__3H_KT_S_103_0.jpg</Picture3>
+  <Picture4 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104429_093525_20181123151550_059978_Portus_Facade_B_01_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104427_927459_20181123151547_449831_Portus_Facade_A_01_tekstilla.jpg</Picture5>
+  <Picture6 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104426_752984_20181123151544_830770_Portus_Aerial_G_01_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104430_235445_20181123151552_649125_Portus_Facade_C_01_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104431_458519_20181123151557_914206_Portus_Facade_E_01_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104432_806356_20181123151600_596820_Portus_Facade_F_01_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104433_956075_20181129155238_982810_Portus_EXT_Facade_Capella_04_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104435_198899_20181129155241_060242_Portus_EXT_Facade_D_01_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104436_557174_20181129155243_974802_Portus_EXT_Facade_SwimmingPlataform_06_tekstilla.jpg</Picture12>
+  <Picture13 sourceType="housing">https://cdn.pdx.fi/westpro/20190424104437_819190_20181129155245_742357_Portus_EXT_Facade_YardView_04_tekstilla.jpg</Picture13>
+  <Picture14 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141204_810538_Auto-_ja_venepaikat_UUSI_Page_1.jpg</Picture14>
+  <Picture15 sourceType="housing">https://cdn.pdx.fi/westpro/20190906141208_231848_Auto-_ja_venepaikat_UUSI_Page_2.jpg</Picture15>
+  <Picture16 sourceType="housing">https://cdn.pdx.fi/westpro/20181123152024_189604_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture16>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400474102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro Portus Ky</Name>
+    <BusinessId>2875258-9</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+  <Reservations>
+    <Reservation>
+      <Type>Jonotus</Type>
+    </Reservation>
+    <Reservation>
+      <Type>Ennakkovaraussopimus</Type>
+    </Reservation>
+  </Reservations>
+</Apartment>
+<Apartment type="PT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA1018</Key>
+  <HousingCompanyKey>H7</HousingCompanyKey>
+  <HousingCompanyNumber>060</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">120.0</LivingArea>
+  <City>Espoo</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">778800.00</UnencumberedSalesPrice>
+  <RoomTypes>4h+k+s+varasto</RoomTypes>
+  <Region>Soukanniemi, Soukka, Soukanranta</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Pintamateriaalit: Tarkemmat materiaalitiedot erillisen materiaali- ja kalusteselostuksen mukaisesti.
+Säilytystilat: Jokaisessa asunnossa lisäksi n. 13m2 kokoinen lämmin varastorakennus sisäänkäynnin yhteydessä.</SupplementaryInformation>
+  <KitchenAppliances>Puustellin kotimainen ja tyylikäs keittiö, työtasot kvartsipuristekiveä, välitilassa taustamaalattu lasi. Kodinkoneet Siemens.</KitchenAppliances>
+  <BathroomAppliances>Laatoitettu, vesikiertoinen lattialämmitys. Varaus pyyhekuivaimelle.</BathroomAppliances>
+  <DirectionOfWindows>Ikkunat ja piha-alueet länsi, pohjoinen ja itä. Takapiha idän suuntaan ja etupiha länteen.</DirectionOfWindows>
+  <Description>Paikka, jossa arjen pienet hetket muuttuvat elämän kestäviksi muistoiksi.
+
+&#42;UUTUUS, NYT MYYNNISSÄ&#42;  Paikka, josta lähtemisessä on parasta kotiinpaluu.
+Upea kolmen rapatun paritalon kokonaisuus kuvankauniilla Soukanniemen alueella. Modernia asumista meren läheisyydessä, loivalla rinnetontilla. Pieni yhtiö, vain kuusi huoneistoa. Arvioitu valmistuminen 2/2021. RS-kohde.Tutustu ja varaa omasi heti. https://www.westpro.fi/villavelvet</Description>
+  <SiteArea unit="m2">3884.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Espoon kaupunki</BuildingPlanInformation>
+  <RoofType>Loiva pulpettikatto, kumibitumikermi</RoofType>
+  <Heating>Poistoilmalämpöpumppu, vesikiertoinen lattialämmitys, viilennykseen ilmalämpöpumppu.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">288240.00</SalesPrice>
+  <Balcony>Tilava parveke lasikaiteella idän / kaakon suuntaan.</Balcony>
+  <BecomesAvailable>Arviolta 2/2021</BecomesAvailable>
+  <MaintenanceFee unit="EUR/kk">518.70</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">408.00</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <OtherFees>Ilmoitettu rahoitusvastikearvio on lyhennysvapaan ajalta, eli arviolta 2 ensimmäistä asuinvuotta. Tällöin rahoitusvastikkeessa maksetaan vain korkoa. Lyhennysvapaan jälkeen laina-aika 22 vuotta.</OtherFees>
+  <WaterFee unit="EUR/kk">21.00</WaterFee>
+  <WaterFeeExplanation>21.00 EUR/kk. Asukasluvun mukaan.</WaterFeeExplanation>
+  <PostalCode>02360</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>2 per asunto, joista 1 autokatos ja 1 avopaikka sähköpistokkein. Varaus 3 x 16A.</ParkingSpace>
+  <CommonAreas>Talousrakennus, jossa tekninen tila ja jätehuone / -katos.</CommonAreas>
+  <NumberOfApartments>6</NumberOfApartments>
+  <Disponent></Disponent>
+  <HousingCompanyName>Asunto Oy Villa Velvet, Espoo</HousingCompanyName>
+  <VendorIdentifier>1</VendorIdentifier>
+  <StreetAddress>Ivar Ståhlen kuja 9 A2</StreetAddress>
+  <FloorLocation />  <BuildingMaterial>Puurunko, rappauspinta</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation2>
+  <OikotieID>7906736</OikotieID>
+  <Latitude>60.12510</Latitude>
+  <Longitude>24.67684</Longitude>
+  <VentilationSystem>Koneellinen huoneistokohtainen ilmanvaihto, viilennys ilmalämpöpumpulla.</VentilationSystem>
+  <AreaInformation>Asuinhuoneistoala 120 m2. Lisäksi asuntokohtainen lämmin varasto n. 13 m2.</AreaInformation>
+  <rc-energyclass>Energialuokka: B2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="E" own="K">Oma sauna, sähkökiuas, kuituvalaistus.</Sauna>
+  <pdx_id>1024</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <FlatNumber>A2</FlatNumber>
+  <TotalFee>926.7</TotalFee>
+  <DebtPart>490560.00</DebtPart>
+  <AreaAdditional>13.0</AreaAdditional>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>02.10.2020 09:06</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <site_number>134-5</site_number>
+  <FlatShareNos>437-872</FlatShareNos>
+  <pdx_flat_number>A2</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_area_additional>13.0</pdx_area_additional>
+  <pdx_flat_share_count>436</pdx_flat_share_count>
+  <Sorting>2</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="E" />  <Estate type="E" />  <DebtPayable value="E" />  <Picture1 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160948_944879_Villa-Velvet---Nakyma-tielta_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100510_447768_Villa-Velvet-Olohuone_B3_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100515_682555_Villa-Velvet-Terassi_B3_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100508_265403_Villa-Velvet-Makuuhuone_C6_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="assignment">https://cdn.pdx.fi/westpro/20200611121209_586668_A2__1.krs.jpg</Picture5>
+  <Picture6 sourceType="assignment">https://cdn.pdx.fi/westpro/20200611121228_693123_A2__2.krs.jpg</Picture6>
+  <Picture7 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100513_583739_Villa-Velvet-Parveke_C6_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100401_747080_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160947_448373_Villa-Velvet---Ilmakuva_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160954_216500_Villa-Velvet-Talot-B_C_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160950_473557_Villa-Velvet-Pihanakyma_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160952_411106_Villa-Velvet-Talo-A_tekstilla.jpg</Picture12>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400 474 102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro cc Oy</Name>
+    <BusinessId>1085205-5</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+</Apartment>
+<Apartment type="PT" newHouses="K" realEstateType="OSAKE" newApartmentReserved="K">
+  <Key>TA1019</Key>
+  <HousingCompanyKey>H7</HousingCompanyKey>
+  <HousingCompanyNumber>060</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">112.0</LivingArea>
+  <City>Espoo</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">709500.00</UnencumberedSalesPrice>
+  <RoomTypes>4h+k+s+varasto</RoomTypes>
+  <Region>Soukanniemi, Soukka, Soukanranta</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Pintamateriaalit: Tarkemmat materiaalitiedot erillisen materiaalit ja kalusteet-selostuksen mukaisesti.
+Säilytystilat: Jokaisessa asunnossa lisäksi n. 13m2 kokoinen lämmin varastorakennus sisäänkäynnin yhteydessä.</SupplementaryInformation>
+  <KitchenAppliances>Puustellin kotimainen ja tyylikäs keittiö, työtasot kvartsipuristekiveä, välitilassa taustamaalattu lasi. Kodinkoneet Siemens.</KitchenAppliances>
+  <BathroomAppliances>Laatoitettu, vesikiertoinen lattialämmitys. Varaus pyyhekuivaimelle.</BathroomAppliances>
+  <DirectionOfWindows>Ikkunat ja piha-alueet itä, etelä ja länsi. Takapiha idän suuntaan ja etupiha länteen.</DirectionOfWindows>
+  <Description>
+
+&#42;UUTUUS, NYT MYYNNISSÄ&#42;  Paikka, josta lähtemisessä on parasta kotiinpaluu.
+Upea kolmen rapatun paritalon kokonaisuus kuvankauniilla Soukanniemen alueella. Modernia asumista meren läheisyydessä, loivalla rinnetontilla. Pieni yhtiö, vain kuusi huoneistoa. Arvioitu valmistuminen 2/2021. RS-kohde.Tutustu ja varaa omasi heti. https://www.westpro.fi/villavelvet</Description>
+  <SiteArea unit="m2">3884.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Espoon kaupunki</BuildingPlanInformation>
+  <RoofType>Loiva pulpettikatto, kumibitumikermi</RoofType>
+  <Heating>Poistoilmalämpöpumppu, vesikiertoinen lattialämmitys, viilennykseen ilmalämpöpumppu.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">251644.00</SalesPrice>
+  <Balcony>Tilava parveke lasikaiteella idän / kaakon suuntaan.</Balcony>
+  <BecomesAvailable>Arviolta 2/2021</BecomesAvailable>
+  <MaintenanceFee unit="EUR/kk">436.80</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">380.80</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <OtherFees>Ilmoitettu rahoitusvastikearvio on lyhennysvapaan ajalta, eli arviolta 2 ensimmäistä asuinvuotta. Tällöin rahoitusvastikkeessa maksetaan vain korkoa. Lyhennysvapaan jälkeen laina-aika 22 vuotta.</OtherFees>
+  <WaterFee unit="EUR/kk">21.00</WaterFee>
+  <WaterFeeExplanation>21.00 EUR/kk. Asukasluvun mukaan.</WaterFeeExplanation>
+  <PostalCode>02360</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>2 per asunto, joista 1 autokatos ja 1 avopaikka sähköpistokkein. Varaus 3 x 16A.</ParkingSpace>
+  <CommonAreas>Talousrakennus, jossa tekninen tila ja jätehuone / -katos.</CommonAreas>
+  <NumberOfApartments>6</NumberOfApartments>
+  <Disponent></Disponent>
+  <HousingCompanyName>Asunto Oy Villa Velvet, Espoo</HousingCompanyName>
+  <VendorIdentifier>1</VendorIdentifier>
+  <StreetAddress>Ivar Ståhlen kuja 9 B3</StreetAddress>
+  <FloorLocation />  <BuildingMaterial>Puurunko, rappauspinta</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation2>
+  <OikotieID>7906744</OikotieID>
+  <Latitude>60.12510</Latitude>
+  <Longitude>24.67684</Longitude>
+  <VentilationSystem>Koneellinen huoneistokohtainen ilmanvaihto, viilennys ilmalämpöpumpulla.</VentilationSystem>
+  <AreaInformation>Asuinhuoneistoala 112 m2. Lisäksi asuntokohtainen lämmin varasto n. 13 m2.</AreaInformation>
+  <rc-energyclass>Energialuokka: B2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="E" own="K">Oma sauna, sähkökiuas, kuituvalaistus.</Sauna>
+  <pdx_id>1025</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <FlatNumber>B3</FlatNumber>
+  <TotalFee>817.6</TotalFee>
+  <DebtPart>457856.00</DebtPart>
+  <AreaAdditional>13.0</AreaAdditional>
+  <Status>Varattu</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>02.10.2020 09:06</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <site_number>134-5</site_number>
+  <FlatShareNos>873-1279</FlatShareNos>
+  <pdx_flat_number>B3</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_area_additional>13.0</pdx_area_additional>
+  <pdx_flat_share_count>407</pdx_flat_share_count>
+  <Sorting>3</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="E" />  <Estate type="E" />  <DebtPayable value="K" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100647_260994_Villa-Velvet-Olohuone_B3_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100649_811674_Villa-Velvet-Parveke_C6_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100652_007438_Villa-Velvet-Terassi_B3_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="assignment">https://cdn.pdx.fi/westpro/20200610165247_515269_B3__1.krs.jpg</Picture4>
+  <Picture5 sourceType="assignment">https://cdn.pdx.fi/westpro/20200610165308_627767_B3__2.krs.jpg</Picture5>
+  <Picture6 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100645_101649_Villa-Velvet-Makuuhuone_C6_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904100715_514075_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160948_944879_Villa-Velvet---Nakyma-tielta_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160947_448373_Villa-Velvet---Ilmakuva_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160954_216500_Villa-Velvet-Talot-B_C_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160950_473557_Villa-Velvet-Pihanakyma_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160952_411106_Villa-Velvet-Talo-A_tekstilla.jpg</Picture12>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400 474 102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro cc Oy</Name>
+    <BusinessId>1085205-5</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+  <Reservations>
+    <Reservation>
+      <Type>Ennakkovaraussopimus</Type>
+    </Reservation>
+  </Reservations>
+</Apartment>
+<Apartment type="PT" newHouses="K" realEstateType="OSAKE" newApartmentReserved="K">
+  <Key>TA1020</Key>
+  <HousingCompanyKey>H7</HousingCompanyKey>
+  <HousingCompanyNumber>060</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">112.0</LivingArea>
+  <City>Espoo</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">709500.00</UnencumberedSalesPrice>
+  <RoomTypes>4h+k+s+varasto</RoomTypes>
+  <Region>Soukanniemi, Soukka, Soukanranta</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Pintamateriaalit: Tarkemmat materiaalitiedot erillisen materiaali- ja kalusteselostuksen mukaisesti.
+Säilytystilat: Jokaisessa asunnossa lisäksi n. 13m2 kokoinen lämmin varastorakennus sisäänkäynnin yhteydessä.</SupplementaryInformation>
+  <KitchenAppliances>Puustellin kotimainen ja tyylikäs keittiö, työtasot kvartsipuristekiveä, välitilassa taustamaalattu lasi. Kodinkoneet Siemens.</KitchenAppliances>
+  <BathroomAppliances>Laatoitettu, vesikiertoinen lattialämmitys. Varaus pyyhekuivaimelle.</BathroomAppliances>
+  <DirectionOfWindows>Ikkunat ja piha-alueet itä, etelä ja länsi. Takapiha idän suuntaan ja etupiha länteen.</DirectionOfWindows>
+  <Description>
+
+&#42;UUTUUS, NYT MYYNNISSÄ&#42;  Paikka, josta lähtemisessä on parasta kotiinpaluu.
+Upea kolmen rapatun paritalon kokonaisuus kuvankauniilla Soukanniemen alueella. Modernia asumista meren läheisyydessä, loivalla rinnetontilla. Pieni yhtiö, vain kuusi huoneistoa. Arvioitu valmistuminen 2/2021. RS-kohde.Tutustu ja varaa omasi heti. https://www.westpro.fi/villavelvet</Description>
+  <SiteArea unit="m2">3884.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Espoon kaupunki</BuildingPlanInformation>
+  <RoofType>Loiva pulpettikatto, kumibitumikermi</RoofType>
+  <Heating>Poistoilmalämpöpumppu, vesikiertoinen lattialämmitys, viilennykseen ilmalämpöpumppu.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">251644.00</SalesPrice>
+  <Balcony>Tilava parveke lasikaiteella idän / kaakon suuntaan.</Balcony>
+  <BecomesAvailable>Arviolta 2/2021</BecomesAvailable>
+  <MaintenanceFee unit="EUR/kk">436.80</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">380.80</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <OtherFees>Ilmoitettu rahoitusvastikearvio on lyhennysvapaan ajalta, eli arviolta 2 ensimmäistä asuinvuotta. Tällöin rahoitusvastikkeessa maksetaan vain korkoa. Lyhennysvapaan jälkeen laina-aika 22 vuotta.</OtherFees>
+  <WaterFee unit="EUR/kk">21.00</WaterFee>
+  <WaterFeeExplanation>21.00 EUR/kk. Asukasluvun mukaan.</WaterFeeExplanation>
+  <PostalCode>02360</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>2 per asunto, joista 1 autokatos ja 1 avopaikka sähköpistokkein. Varaus 3 x 16A.</ParkingSpace>
+  <CommonAreas>Talousrakennus, jossa tekninen tila ja jätehuone / -katos.</CommonAreas>
+  <NumberOfApartments>6</NumberOfApartments>
+  <Disponent></Disponent>
+  <HousingCompanyName>Asunto Oy Villa Velvet, Espoo</HousingCompanyName>
+  <VendorIdentifier>1</VendorIdentifier>
+  <StreetAddress>Ivar Ståhlen kuja 9 C5</StreetAddress>
+  <FloorLocation />  <BuildingMaterial>Puurunko, rappauspinta</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation2>
+  <OikotieID>7906745</OikotieID>
+  <Latitude>60.12510</Latitude>
+  <Longitude>24.67684</Longitude>
+  <VentilationSystem>Koneellinen huoneistokohtainen ilmanvaihto, viilennys ilmalämpöpumpulla.</VentilationSystem>
+  <AreaInformation>Asuinhuoneistoala 112 m2. Lisäksi asuntokohtainen lämmin varasto n. 13 m2.</AreaInformation>
+  <rc-energyclass>Energialuokka: B2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="E" own="K">Oma sauna, sähkökiuas, kuituvalaistus.</Sauna>
+  <pdx_id>1026</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <FlatNumber>C5</FlatNumber>
+  <TotalFee>817.6</TotalFee>
+  <DebtPart>457856.00</DebtPart>
+  <AreaAdditional>13.0</AreaAdditional>
+  <Status>Varattu</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>02.10.2020 09:07</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <site_number>134-5</site_number>
+  <FlatShareNos>1687-2093</FlatShareNos>
+  <pdx_flat_number>C5</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_area_additional>13.0</pdx_area_additional>
+  <pdx_flat_share_count>407</pdx_flat_share_count>
+  <Sorting>5</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="E" />  <Estate type="E" />  <DebtPayable value="E" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904101847_870471_Villa-Velvet-Terassi_B3_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904101843_741045_Villa-Velvet-Olohuone_B3_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904101841_562068_Villa-Velvet-Makuuhuone_C6_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="assignment">https://cdn.pdx.fi/westpro/20200610165535_117753_C5__1.krs.jpg</Picture4>
+  <Picture5 sourceType="assignment">https://cdn.pdx.fi/westpro/20200610165558_455985_C5__2.krs.jpg</Picture5>
+  <Picture6 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904101845_768620_Villa-Velvet-Parveke_C6_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904102043_294962_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160948_944879_Villa-Velvet---Nakyma-tielta_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160947_448373_Villa-Velvet---Ilmakuva_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160954_216500_Villa-Velvet-Talot-B_C_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160950_473557_Villa-Velvet-Pihanakyma_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160952_411106_Villa-Velvet-Talo-A_tekstilla.jpg</Picture12>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400 474 102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro cc Oy</Name>
+    <BusinessId>1085205-5</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+  <Reservations>
+    <Reservation>
+      <Type>Ennakkovaraussopimus</Type>
+    </Reservation>
+  </Reservations>
+</Apartment>
+<Apartment type="PT" newHouses="K" realEstateType="OSAKE">
+  <Key>TA1021</Key>
+  <HousingCompanyKey>H7</HousingCompanyKey>
+  <HousingCompanyNumber>060</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">112.0</LivingArea>
+  <City>Espoo</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">709500.00</UnencumberedSalesPrice>
+  <RoomTypes>4h+k+s+varasto</RoomTypes>
+  <Region>Soukanniemi, Soukka, Soukanranta</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Pintamateriaalit: Tarkemmat materiaalitiedot erillisen materiaali- ja kalusteselostuksen mukaisesti.
+Säilytystilat: Jokaisessa asunnossa lisäksi n. 13m2 kokoinen lämmin varastorakennus sisäänkäynnin yhteydessä.</SupplementaryInformation>
+  <KitchenAppliances>Puustellin kotimainen ja tyylikäs keittiö, työtasot kvartsipuristekiveä, välitilassa taustamaalattu lasi. Kodinkoneet Siemens.</KitchenAppliances>
+  <BathroomAppliances>Laatoitettu, vesikiertoinen lattialämmitys. Varaus pyyhekuivaimelle.</BathroomAppliances>
+  <DirectionOfWindows>Ikkunat ja piha-alueet länsi, pohjoinen ja itä. Takapiha idän suuntaan ja etupiha länteen.</DirectionOfWindows>
+  <Description>
+
+&#42;UUTUUS, NYT MYYNNISSÄ&#42;  Paikka, josta lähtemisessä on parasta kotiinpaluu.
+Upea kolmen rapatun paritalon kokonaisuus kuvankauniilla Soukanniemen alueella. Modernia asumista meren läheisyydessä, loivalla rinnetontilla. Pieni yhtiö, vain kuusi huoneistoa. Arvioitu valmistuminen 2/2021. RS-kohde.Tutustu ja varaa omasi heti. https://www.westpro.fi/villavelvet</Description>
+  <SiteArea unit="m2">3884.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Espoon kaupunki</BuildingPlanInformation>
+  <RoofType>Loiva pulpettikatto, kumibitumikermi</RoofType>
+  <Heating>Poistoilmalämpöpumppu, vesikiertoinen lattialämmitys, viilennykseen ilmalämpöpumppu.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">251644.00</SalesPrice>
+  <Balcony>Tilava parveke lasikaiteella idän / kaakon suuntaan.</Balcony>
+  <BecomesAvailable>Arviolta 2/2021</BecomesAvailable>
+  <MaintenanceFee unit="EUR/kk">436.80</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">380.80</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <OtherFees>Ilmoitettu rahoitusvastikearvio on lyhennysvapaan ajalta, eli arviolta 2 ensimmäistä asuinvuotta. Tällöin rahoitusvastikkeessa maksetaan vain korkoa. Lyhennysvapaan jälkeen laina-aika 22 vuotta.</OtherFees>
+  <WaterFee unit="EUR/kk">21.00</WaterFee>
+  <WaterFeeExplanation>21.00 EUR/kk. Asukasluvun mukaan.</WaterFeeExplanation>
+  <PostalCode>02360</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>2 per asunto, joista 1 autokatos ja 1 avopaikka sähköpistokkein. Varaus 3 x 16A.</ParkingSpace>
+  <CommonAreas>Talousrakennus, jossa tekninen tila ja jätehuone / -katos.</CommonAreas>
+  <NumberOfApartments>6</NumberOfApartments>
+  <Disponent></Disponent>
+  <HousingCompanyName>Asunto Oy Villa Velvet, Espoo</HousingCompanyName>
+  <VendorIdentifier>1</VendorIdentifier>
+  <StreetAddress>Ivar Ståhlen kuja 9 B4</StreetAddress>
+  <FloorLocation />  <BuildingMaterial>Puurunko, rappauspinta</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation2>
+  <OikotieID>7906746</OikotieID>
+  <Latitude>60.12510</Latitude>
+  <Longitude>24.67684</Longitude>
+  <VentilationSystem>Koneellinen huoneistokohtainen ilmanvaihto, viilennys ilmalämpöpumpulla.</VentilationSystem>
+  <AreaInformation>Asuinhuoneistoala 112 m2. Lisäksi asuntokohtainen lämmin varasto n. 13 m2.</AreaInformation>
+  <rc-energyclass>Energialuokka: B2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="E" own="K">Oma sauna, sähkökiuas, kuituvalaistus.</Sauna>
+  <pdx_id>1027</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <FlatNumber>B4</FlatNumber>
+  <TotalFee>817.6</TotalFee>
+  <DebtPart>457856.00</DebtPart>
+  <AreaAdditional>13.0</AreaAdditional>
+  <Status>Myynnissä</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>02.10.2020 09:07</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <site_number>134-5</site_number>
+  <FlatShareNos>1280-1686</FlatShareNos>
+  <pdx_flat_number>B4</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_area_additional>13.0</pdx_area_additional>
+  <pdx_flat_share_count>407</pdx_flat_share_count>
+  <Sorting>4</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="E" />  <Estate type="E" />  <DebtPayable value="E" />  <Picture1 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160948_944879_Villa-Velvet---Nakyma-tielta_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904101440_800364_Villa-Velvet-Makuuhuone_C6_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904101443_461088_Villa-Velvet-Olohuone_B3_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904101448_080324_Villa-Velvet-Terassi_B3_tekstilla.jpg</Picture4>
+  <Picture5 sourceType="assignment">https://cdn.pdx.fi/westpro/20200610165343_939553_B4__1.krs.jpg</Picture5>
+  <Picture6 sourceType="assignment">https://cdn.pdx.fi/westpro/20200610170407_639709_B4__2.krs.jpg</Picture6>
+  <Picture7 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904101445_916126_Villa-Velvet-Parveke_C6_tekstilla.jpg</Picture7>
+  <Picture8 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904101347_375488_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160947_448373_Villa-Velvet---Ilmakuva_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160954_216500_Villa-Velvet-Talot-B_C_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160950_473557_Villa-Velvet-Pihanakyma_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160952_411106_Villa-Velvet-Talo-A_tekstilla.jpg</Picture12>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400 474 102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro cc Oy</Name>
+    <BusinessId>1085205-5</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+</Apartment>
+<Apartment type="PT" newHouses="K" realEstateType="OSAKE" newApartmentReserved="K">
+  <Key>TA1022</Key>
+  <HousingCompanyKey>H7</HousingCompanyKey>
+  <HousingCompanyNumber>060</HousingCompanyNumber>
+  <TotalArea unit="m2" />  <LivingArea unit="m2">112.0</LivingArea>
+  <City>Espoo</City>
+  <Country>Suomi</Country>
+  <UnencumberedSalesPrice currency="EUR">709500.00</UnencumberedSalesPrice>
+  <RoomTypes>4h+k+s+varasto</RoomTypes>
+  <Region>Soukanniemi, Soukka, Soukanranta</Region>
+  <GeneralCondition level="2">Erinomainen</GeneralCondition>
+  <SupplementaryInformation>Pintamateriaalit: Tarkemmat materiaalitiedot erillisen materiaali- ja kalusteselostuksen mukaisesti.
+Säilytystilat: Jokaisessa asunnossa lisäksi n. 13m2 kokoinen lämmin varastorakennus sisäänkäynnin yhteydessä.</SupplementaryInformation>
+  <KitchenAppliances>Puustellin kotimainen ja tyylikäs keittiö, työtasot kvartsipuristekiveä, välitilassa taustamaalattu lasi. Kodinkoneet Siemens.</KitchenAppliances>
+  <BathroomAppliances>Laatoitettu, vesikiertoinen lattialämmitys. Varaus pyyhekuivaimelle.</BathroomAppliances>
+  <DirectionOfWindows>Ikkunat ja piha-alueet länsi, pohjoinen ja itä. Takapiha idän suuntaan ja etupiha länteen.</DirectionOfWindows>
+  <Description>
+
+&#42;UUTUUS, NYT MYYNNISSÄ&#42;  Paikka, josta lähtemisessä on parasta kotiinpaluu.
+Upea kolmen rapatun paritalon kokonaisuus kuvankauniilla Soukanniemen alueella. Modernia asumista meren läheisyydessä, loivalla rinnetontilla. Pieni yhtiö, vain kuusi huoneistoa. Arvioitu valmistuminen 2/2021. RS-kohde.Tutustu ja varaa omasi heti. https://www.westpro.fi/villavelvet</Description>
+  <SiteArea unit="m2">3884.00</SiteArea>
+  <BuildingPlanSituation>Asemakaava</BuildingPlanSituation>
+  <BuildingPlanInformation>Espoon kaupunki</BuildingPlanInformation>
+  <RoofType>Loiva pulpettikatto, kumibitumikermi</RoofType>
+  <Heating>Poistoilmalämpöpumppu, vesikiertoinen lattialämmitys, viilennykseen ilmalämpöpumppu.</Heating>
+  <YearOfBuilding original="2021" />  <NumberOfRooms>4</NumberOfRooms>
+  <SalesPrice currency="EUR">251644.00</SalesPrice>
+  <Balcony>Tilava parveke lasikaiteella idän / kaakon suuntaan.</Balcony>
+  <BecomesAvailable>Arviolta 2/2021</BecomesAvailable>
+  <MaintenanceFee unit="EUR/kk">436.80</MaintenanceFee>
+  <FinancingFee unit="EUR/kk">380.80</FinancingFee>
+  <Mortgages>0</Mortgages>
+  <OtherFees>Ilmoitettu rahoitusvastikearvio on lyhennysvapaan ajalta, eli arviolta 2 ensimmäistä asuinvuotta. Tällöin rahoitusvastikkeessa maksetaan vain korkoa. Lyhennysvapaan jälkeen laina-aika 22 vuotta.</OtherFees>
+  <WaterFee unit="EUR/kk">21.00</WaterFee>
+  <WaterFeeExplanation>21.00 EUR/kk. Asukasluvun mukaan.</WaterFeeExplanation>
+  <PostalCode>02360</PostalCode>
+  <AntennaSystem>Kaapeli-tv</AntennaSystem>
+  <ParkingSpace>2 per asunto, joista 1 autokatos ja 1 avopaikka sähköpistokkein. Varaus 3 x 16A.</ParkingSpace>
+  <CommonAreas>Talousrakennus, jossa tekninen tila ja jätehuone / -katos.</CommonAreas>
+  <NumberOfApartments>6</NumberOfApartments>
+  <Disponent></Disponent>
+  <HousingCompanyName>Asunto Oy Villa Velvet, Espoo</HousingCompanyName>
+  <VendorIdentifier>1</VendorIdentifier>
+  <StreetAddress>Ivar Ståhlen kuja 9 C6</StreetAddress>
+  <FloorLocation />  <BuildingMaterial>Puurunko, rappauspinta</BuildingMaterial>
+  <ContactRequestEmail>suvi.lukjanov@westpro.fi</ContactRequestEmail>
+  <EstateAgentContactPersonEmail>suvi.lukjanov@westpro.fi</EstateAgentContactPersonEmail>
+  <EstateAgentContactPerson>Suvi Lukjanov</EstateAgentContactPerson>
+  <EstateAgentTitle>myyntipäällikkö</EstateAgentTitle>
+  <EstateAgentContactPersonPictureUrl />  <EstateAgentContactPersonTelephone>0400 474 102</EstateAgentContactPersonTelephone>
+  <EstateAgentTelephone>0400 474 102</EstateAgentTelephone>
+  <ShowingDate1 />  <ShowingStartTime1>00:00</ShowingStartTime1>
+  <ShowingEndTime1>00:00</ShowingEndTime1>
+  <ShowingDateExplanation1>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation1>
+  <ShowingDate2 />  <ShowingStartTime2>00:00</ShowingStartTime2>
+  <ShowingEndTime2>00:00</ShowingEndTime2>
+  <ShowingDateExplanation2>Tervetuloa tutustumaan Villa Velvetin koteihin rakennuspaikalle ja varaamaan oma unelmakotinne!</ShowingDateExplanation2>
+  <OikotieID>7906747</OikotieID>
+  <Latitude>60.12510</Latitude>
+  <Longitude>24.67684</Longitude>
+  <ExtraVisibilityStartDateTime>2019-10-07T13:00:00</ExtraVisibilityStartDateTime>
+  <VentilationSystem>Koneellinen huoneistokohtainen ilmanvaihto, viilennys ilmalämpöpumpulla.</VentilationSystem>
+  <AreaInformation>Asuinhuoneistoala 112 m2. Lisäksi asuntokohtainen lämmin varasto n. 13 m2.</AreaInformation>
+  <rc-energyclass>Energialuokka: B2018</rc-energyclass>
+  <rc-energy-flag>On</rc-energy-flag>
+  <Sauna common="E" own="K">Oma sauna, sähkökiuas, kuituvalaistus.</Sauna>
+  <pdx_id>1028</pdx_id>
+  <pdx_object>assignment</pdx_object>
+  <FlatNumber>C6</FlatNumber>
+  <TotalFee>817.6</TotalFee>
+  <DebtPart>457856.00</DebtPart>
+  <AreaAdditional>13.0</AreaAdditional>
+  <Status>Varattu</Status>
+  <ContractDate>01.01.1970</ContractDate>
+  <ModifiedDate>02.10.2020 09:07</ModifiedDate>
+  <asbestos_mapping>Ei</asbestos_mapping>
+  <site_number>134-5</site_number>
+  <FlatShareNos>2094-2500</FlatShareNos>
+  <pdx_flat_number>C6</pdx_flat_number>
+  <pdx_region>Uusimaa</pdx_region>
+  <pdx_area_additional>13.0</pdx_area_additional>
+  <pdx_flat_share_count>407</pdx_flat_share_count>
+  <Sorting>6</Sorting>
+  <OnlineOffer>E</OnlineOffer>
+  <TargetNew value="K" />  <TargetHoliday value="E" />  <TradeBid value="E" />  <Site type="O" optional="no" />  <ModeOfHabitation type="UU" />  <Balcony value="K" />  <Lift value="E" />  <Estate type="E" />  <DebtPayable value="E" />  <Picture1 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904102225_923530_Villa-Velvet-Parveke_C6_tekstilla.jpg</Picture1>
+  <Picture2 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904102221_495438_Villa-Velvet-Makuuhuone_C6_tekstilla.jpg</Picture2>
+  <Picture3 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904102223_648336_Villa-Velvet-Olohuone_B3_tekstilla.jpg</Picture3>
+  <Picture4 sourceType="assignment">https://cdn.pdx.fi/westpro/20200610165753_366460_C6__1.krs.jpg</Picture4>
+  <Picture5 sourceType="assignment">https://cdn.pdx.fi/westpro/20200610165817_437823_C6__2.krs.jpg</Picture5>
+  <Picture6 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904102228_011778_Villa-Velvet-Terassi_B3_tekstilla.jpg</Picture6>
+  <Picture7 sourceType="assignment">https://cdn.pdx.fi/westpro/20190904102136_118611_20180608110818_563431_myynnin-lisakuva--ei-henkiloita.jpg</Picture7>
+  <Picture8 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160948_944879_Villa-Velvet---Nakyma-tielta_tekstilla.jpg</Picture8>
+  <Picture9 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160947_448373_Villa-Velvet---Ilmakuva_tekstilla.jpg</Picture9>
+  <Picture10 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160954_216500_Villa-Velvet-Talot-B_C_tekstilla.jpg</Picture10>
+  <Picture11 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160950_473557_Villa-Velvet-Pihanakyma_tekstilla.jpg</Picture11>
+  <Picture12 sourceType="housing">https://cdn.pdx.fi/westpro/20190903160952_411106_Villa-Velvet-Talo-A_tekstilla.jpg</Picture12>
+  <EstateAgentContactPersons>
+    <Person>
+      <Forename>Suvi</Forename>
+      <Surname>Lukjanov</Surname>
+      <Email>suvi.lukjanov@westpro.fi</Email>
+      <Phone>0400 474 102</Phone>
+      <PictureUrl />    </Person>
+  </EstateAgentContactPersons>
+  <Company>
+    <Name>Westpro cc Oy</Name>
+    <BusinessId>1085205-5</BusinessId>
+    <Address>Ukonvaaja 2 A</Address>
+    <Zipcode>02130</Zipcode>
+    <City>Espoo</City>
+    <Phone>0400 355 572</Phone>
+    <Email>myynti@westpro.fi</Email>
+  </Company>
+  <Reservations>
+    <Reservation>
+      <Type>Ennakkovaraussopimus</Type>
+    </Reservation>
+  </Reservations>
+</Apartment>
+</Apartments>
